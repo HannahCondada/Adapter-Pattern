@@ -29,3 +29,6 @@ _**Adapter Objects:**_
   1. Problem statement (description of the problem. Just copy what is stated here.
   2. UML Class Diagram
   3. Uploaded java codes for the solution.
+
+# Adapter Pattern Diagram
+![Adapter Pattern](https://github.com/HannahCondada/Adapter-Pattern/assets/142371011/4d946b4b-fe16-4c32-89e0-338b8963268e)
